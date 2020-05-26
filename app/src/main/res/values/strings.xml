@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI_calculator</string>
+    <string name="tv_bmi">Body Mass Index (BMI)</string>
+    <string name="tv_weight">Weight</string>
+    <string name="tv_height">Height</string>
+    <string name="tv_lb">lb</string>
+    <string name="et_default">0</string>
+    <string name="tv_feet">feet</string>
+    <string name="tv_inches">inches</string>
+    <string name="bt_calculate">Calculate BMI</string>
+    <string name="tv_yourbmi">Your BMI : 0</string>
+    <string name="tv_result" />
+</resources>
